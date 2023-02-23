@@ -18,7 +18,7 @@ Jueves 13 de abril de 2023
 
 - Dra. Nelly Sélem
 
-Dulces es ....
+Nelly es ....
 
 
 ## Materiales
