@@ -26,6 +26,7 @@ Nelly es ....
 Para descargar este repositorio, da click en el botón Code > Download zip. 
 
 Si lo prefieres, puedes usar el comando `git clone < url_repositorio > ` desde tu terminal para clonar el repositorio.
+Además utilizaremos la lección de (r para análisis científicos reproducibles)[ https://swcarpentry.github.io/r-novice-gapminder-es/] de los Carpentries.  
 
 
 ## Conocimientos previos requeridos
