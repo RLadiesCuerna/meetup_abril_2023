@@ -20,7 +20,7 @@ Jueves 13 de abril de 2023
 
 - Dra. Nelly Sélem
 
-Nelly es Licenciada en Matemáticas por la Universidad de Guanajuato, maestría en matemáticas en CIMAT, y en 2019 Doctorado en Biología integrativa en Langebio-Cinvestav Irapuato.  Se ha dedicado a plantear y desarrollar soluciones bioinformáticas en genómica comparada. Por sus desarrollos de software libre para el estudio de la evolución del genoma bacteriano obtuvo la beca L'Oréal a mujeres en la ciencia 2021. Con la escritura de "The pangenome" ganó el premio al mejor artículo de Wikipedia de Biología computacional 2021. Con el fin de trabajar en la enseñanza de la bioiformática es desarrolladora activa de The Carpentries Incubator y miembro de la Sociedad Internacional de Biología Computacional y de la Red Mexicana de Bioinformática. Actualmente es profesora investigadora en el Centro de Ciencias Matemáticas de la UNAM en Morelia.     
+Nelly es Licenciada en Matemáticas por la Universidad de Guanajuato, maestra en matemáticas por CIMAT, y en 2019 terminó un doctorado en Biología integrativa en Langebio-Cinvestav Irapuato.  Se ha dedicado a plantear y desarrollar soluciones bioinformáticas en genómica comparada. Por sus desarrollos de software libre para el estudio de la evolución del genoma bacteriano obtuvo la beca L'Oréal a mujeres en la ciencia 2021. Con la escritura de "The pangenome" ganó el premio al mejor artículo de Wikipedia de Biología computacional 2021. Con el fin de trabajar en la enseñanza de la bioiformática es desarrolladora activa de The Carpentries Incubator y miembro de la Sociedad Internacional de Biología Computacional y de la Red Mexicana de Bioinformática. Actualmente es profesora investigadora en el Centro de Ciencias Matemáticas de la UNAM en Morelia.     
 nselem@matmor.unam.mx Github:[nselem](https://github.com/nselem).  
 
 ## Materiales
@@ -29,19 +29,17 @@ Para descargar este repositorio, da click en el botón Code > Download zip.
 
 Si lo prefieres, puedes usar el comando `git clone < url_repositorio > ` desde tu terminal para clonar el repositorio.
 Además utilizaremos episodios de la lección de [r para análisis científicos reproducibles]( https://swcarpentry.github.io/r-novice-gapminder-es/) de los Carpentries.  
-Episodio 2 [tipos de datos]( https://swcarpentry.github.io/r-novice-gapminder-es/05-data-structures-part2/index.html)
-Episodio 3 [tipos de datos]( https://swcarpentry.github.io/r-novice-gapminder-es/05-data-structures-part2/index.html)
+Episodio 2 [tipos de datos](https://swcarpentry.github.io/r-novice-gapminder-es/04-data-structures-part1/index.html)
+Episodio 5 [explorando dataframes]( https://swcarpentry.github.io/r-novice-gapminder-es/05-data-structures-part2/index.html)
 
 ## Conocimientos previos requeridos
 
-Para aprovechar al máximo este Meetup, se recomienda tener conocimiento básico de ...
-
+Para aprovechar al máximo este Meetup, se recomienda tener conocimiento básico de entender que los archivos estan organizados en directorios (folders). Entender que las computadoras guardan datos e instrucciones (programas, scripts) en archivos. Saber como acceder a los archivos que no están en el directorio de trabajo, especificando el path.
 
 ## Requerimientos de software
 
 + Tener instalado R >= 4.0
 + Tener instalado RStudio >= 1.4
-
 
 ## Código de Conducta
 
